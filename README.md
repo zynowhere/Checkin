@@ -10,11 +10,6 @@
 </p>
 
 
-## 详细文档
-
-- 文档地址: [https://sitoi.github.io/dailycheckin/](https://sitoi.github.io/dailycheckin/)
-- 国内地址: [https://sitoi.gitee.io/dailycheckin/](https://sitoi.gitee.io/dailycheckin/)
-
 ## 签到列表
 
 🟢: 正常运行 🔴: 脚本暂不可用 🔵: 可以执行(需更新) 🟡: 待测试 🟤: 看脸
@@ -65,6 +60,10 @@
 - Cool Push（QQ,微信,邮箱）
 - qmsg 酱（QQ）
 
+## 详细文档
+
+- 文档地址: [https://sitoi.github.io/dailycheckin/](https://sitoi.github.io/dailycheckin/)
+- 国内地址: [https://sitoi.gitee.io/dailycheckin/](https://sitoi.gitee.io/dailycheckin/)
 
 ## 特别鸣谢
 
