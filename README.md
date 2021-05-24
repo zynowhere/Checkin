@@ -71,9 +71,3 @@
 - [@Wenmoux](https://github.com/Wenmoux/checkbox) - 签到盒
 - [@chavyleung](https://github.com/chavyleung/scripts) - Chavy Scripts
 
-
-## 历史 Star 数
-
-<p align="center">
-    <a href="https://starchart.cc/Sitoi/dailycheckin"><img src="https://starchart.cc/Sitoi/dailycheckin.svg" alt="starchart"></a>
-</p>
