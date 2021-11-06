@@ -54,8 +54,8 @@
 
 ## 详细文档
 
-- 文档地址: [https://sitoi.github.io/dailycheckin/](https://sitoi.github.io/dailycheckin/)
-- 国内地址: [https://sitoi.gitee.io/dailycheckin/](https://sitoi.gitee.io/dailycheckin/)
+- 文档地址: [dailycheckin](https://sitoi.github.io/dailycheckin/)
+- 国内地址: [dailycheckin](https://sitoi.gitee.io/dailycheckin/)
 
 ## 特别鸣谢
 
